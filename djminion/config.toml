@@ -1,0 +1,4 @@
+baseURL = "https://djminion.github.io"
+languageCode = "en-us"
+title = "DJMinion Dummy"
+theme="gohugo-theme-ananke"
